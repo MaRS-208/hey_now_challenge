@@ -1,3 +1,5 @@
+# Mycelium Chatbot
+
 For this project the idea was to build a chatbot that could answer questions about the Fungi Realm.
 
 Technologies used:
